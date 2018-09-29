@@ -1,5 +1,5 @@
 {
-  "name": "node-home-assistant",
+  "name": "node-home-assistant-llat",
   "version": "0.2.2",
   "main": "index.js",
   "scripts": {
